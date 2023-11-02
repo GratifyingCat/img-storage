@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic_settings
+psycopg2
+python-multipart
+pillow
